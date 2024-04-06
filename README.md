@@ -8,13 +8,14 @@ Current Status :
 
 - Supported transmitters :
     - Dexcom G4 with xBridge       
-    - Dexcom G5 and G6
+    - Dexcom G5, G6 and G7
     - MiaoMiao 1 and 2
     - Blucon
     - Bubble
     - Droplet 1
     - Atom
     - Libre 2
+    - Libre 3 (in combination with LibreView)
 - 6 hour graph with readings
 - Alerting
 - Upload to Nightscout
